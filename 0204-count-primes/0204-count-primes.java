@@ -1,32 +1,28 @@
 class Solution {
     public int countPrimes(int n) {
-        if (n <= 2) {
-            return 0; // No primes less than 2
+        if (n < 3) {
+            return 0;
         }
 
-        // Sieve of Eratosthenes: Create a boolean array to mark primes
-        boolean[] isPrime = new boolean[n];
-        for (int i = 2; i < n; i++) {
-            isPrime[i] = true; // Initialize all as prime
-        }
+        boolean[] primes = new boolean[n];  // Array to store prime numbers
+        int count = 0;  // Count of prime numbers
+        
+        // Mark 2 as prime manually, since we are skipping even numbers.
+        primes[2] = false;
+        count++;  // Include 2 as prime
+        
+        // Start checking from odd numbers only, as even numbers > 2 are not prime.
+        for (int p = 3; p < n; p += 2) {
+            if (!primes[p]) {  // If p is prime
+                count++;
 
-        // Mark non-prime numbers
-        for (int i = 2; i * i < n; i++) {
-            if (isPrime[i]) {
-                for (int j = i * i; j < n; j += i) {
-                    isPrime[j] = false; // Mark multiples as non-prime
+                // Mark multiples of p as non-prime. Start at p * p, not p * 2.
+                for (int i = p * p; i < n; i += p * 2) {
+                    primes[i] = true;  // Mark as non-prime
                 }
             }
         }
-
-        // Count primes
-        int count = 0;
-        for (int i = 2; i < n; i++) {
-            if (isPrime[i]) {
-                count++;
-            }
-        }
-
+                
         return count;
     }
 }
