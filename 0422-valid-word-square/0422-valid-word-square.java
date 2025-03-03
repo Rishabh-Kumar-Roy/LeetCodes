@@ -1,16 +1,18 @@
 class Solution {
     public boolean validWordSquare(List<String> words) {
-        int n=words.size();
-        for(int i=0;i<n;i++)
+        
+        for(int i=0;i<words.size();i++)
         {
-            String row=words.get(i);
-
-            for(int j=0;j<row.length();j++)
+            String temp="";
+            for(int j=0;j<words.size();j++)
             {
-                if(j>=n||i>=words.get(j).length()|| row.charAt(j)!=words.get(j).charAt(i))
-                return false;
+                if (i < words.get(j).length()) 
+                temp+=words.get(j).charAt(i);
             }
-            
+            if(!temp.equals(words.get(i)))
+            return false;
+            //temp="";
         }
+        return true;
     }
 }
