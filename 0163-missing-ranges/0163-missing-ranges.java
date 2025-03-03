@@ -1,16 +1,17 @@
 class Solution {
     public List<List<Integer>> findMissingRanges(int[] nums, int lower, int upper) {
-        List<List<Integer>> answer = new ArrayList<>();
-        int prev = lower - 1, n = nums.length;
-
-        for (int i = 0; i <= n; ++i) {
-            int curr = (i < n) ? nums[i] : upper + 1;
-            if (prev + 1 <= curr - 1) {
-                answer.add(Arrays.asList(prev + 1, curr - 1));
+        List<List<Integer>> ar = new ArrayList<>();
+        
+        for (int i = 0; i <= nums.length; i++) {
+            int next = (i < nums.length) ? nums[i] : upper + 1;
+            
+            if (lower < next) {
+                ar.add(Arrays.asList(lower, next - 1));
             }
-            prev = curr;
+            
+            lower = next+1;
         }
 
-        return answer;
+        return ar;
     }
 }
