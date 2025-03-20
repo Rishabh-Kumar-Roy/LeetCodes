@@ -1,23 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
         int l=s.length();
-        int c=0;
+        HashMap<Character,Integer> hm=new HashMap<>();
         for(int i=0;i<l;i++)
         {
-            for(int j=0;j<l;j++)
-            {
-                if(i!=j&&s.charAt(i)==s.charAt(j))
-                {
-                    c++;
-                    break;
-                }
-                
-
-            }
-            if (c==0)
+            hm.put(s.charAt(i),hm.getOrDefault(s.charAt(i),0)+1);
+        }
+        for(int i=0;i<l;i++)
+        {
+            if((hm.get(s.charAt(i)))==1)
             return i;
-             c=0;
         }
         return -1;
+
     }
 }
