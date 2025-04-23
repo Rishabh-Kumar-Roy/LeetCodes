@@ -6,9 +6,7 @@ class Solution {
             if(n%i==0)
             c++;
         }
-        if(c==3)
-        return true;
-
-        return false;
+        
+        return c==3;
     }
 }
