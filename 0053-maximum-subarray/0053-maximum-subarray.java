@@ -1,18 +1,15 @@
-
-
-import static java.lang.Math.max;
-
 class Solution {
     public int maxSubArray(int[] nums) {
-        
-        int sum=0,maxsum=Integer.MIN_VALUE;;
-        for(int n:nums)
+        int s=0;
+        int m=Integer.MIN_VALUE;
+        for(int i:nums)
         {
-            sum+=n;
-            maxsum=Math.max(sum,maxsum);
-            if(sum<0)
-            sum=0;
+            s+=i;
+            if(s<0)
+            s=0;
+            m=Math.max(m,s);
         }
-        return maxsum;
+        return m;
+        
     }
 }
