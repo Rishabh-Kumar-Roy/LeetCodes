@@ -1,39 +1,23 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int []ans=new int[2];
-        boolean flag=false;
-        int l=nums.length;
-        for(int i=0;i<l;i++)
+        int l=0,r=nums.length,mid=0,ans=-1,ans1=-1,c=0;
+        for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]==target&& flag==false)
+            if(nums[i]==target&&c==0)
             {
-            ans[0]=i;
-            flag=true;
-            } 
-
+                ans=i;
+                c++;
+            }
+           
         }
-        if(flag==false)
-        ans[0]=-1;
-        flag=false;
-
-        for(int i=l-1;i>=0;i--)
+        for(int i=nums.length-1;i>=0;i--)
         {
-            if(nums[i]==target&& flag==false)
+            if(nums[i]==target)
             {
-            ans[1]=i;
-            flag=true;
-            } 
-
+            ans1=i;
+            break;
         }
-        if(flag==false)
-        ans[1]=-1;
-
-
-        return ans;
-
-
-
-
-
+        }
+        return new int[]{ans,ans1};
     }
 }
