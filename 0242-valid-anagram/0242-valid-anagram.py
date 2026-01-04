@@ -1,6 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if(sorted(s)==sorted(t)):
-            return True
-        else:
-            return False
+        ck = {}
+        ck1 = {}
+
+        for i in s:
+            if i in ck:
+                ck[i] += 1
+            else:
+                ck[i] = 1
+
+        for j in t:
+            if j in ck1:
+                ck1[j] += 1
+            else:
+                ck1[j] = 1
+
+        return ck == ck1
+        
