@@ -1,11 +1,12 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
-        
+        st=[]
         for i in range (len(prices)):
-            for j in range (i+1,len(prices)):
-                if prices[j]<=prices[i]:
-                    prices[i]=prices[i]-prices[j]
-                    break
+            while st and prices[st[-1]]>= prices[i]:
+                id=st.pop()
+                prices[id]-=prices[i]
+            st.append(i)
         return prices
-            
+
+
         
