@@ -13,6 +13,8 @@ class Solution:
         for i in t:
             if i in d:
                 d[i]=d[i]-1
+                if d[i]<0:
+                    return False
             else:
                 return False
         for i in d:
