@@ -1,21 +1,22 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        ck={}
-        ck1={}
-        for i in s:
-            if i in ck:
-                ck[i]+=1
-            else:
-                ck[i]=1
-        for j in t:
-            if j in ck1:
-                ck1[j]+=1
-            else:
-                ck1[j]=1
-        if (ck==ck1):
-            return True
-        return False
-        
-        
+        if len(s)!=len(t):
+            return False
 
-        
+        d={}
+        for i in s:
+            if i not in d:
+                d[i]=1
+            else:
+                d[i]=d[i]+1
+
+        for i in t:
+            if i in d:
+                d[i]=d[i]-1
+            else:
+                return False
+        for i in d:
+            if d[i]!=0:
+                return False  
+            
+        return True
