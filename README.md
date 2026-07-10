@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
