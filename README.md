@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Sliding Window
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
