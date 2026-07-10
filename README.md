@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
+| [2235-add-two-integers](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/2235-add-two-integers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
