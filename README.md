@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
