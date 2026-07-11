@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
