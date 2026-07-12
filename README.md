@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0412-fizz-buzz](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0412-fizz-buzz/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/2235-add-two-integers/) | Easy |
 ## Hash Table
