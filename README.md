@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1512-number-of-good-pairs/) | Easy |
