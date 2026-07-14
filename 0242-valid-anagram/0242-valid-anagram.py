@@ -1,22 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        ar1=[0]*26
+
         if len(s)!=len(t):
             return False
-        chara={}
-        for i in range(len(s)):
-            if s[i] in chara:
-                chara[s[i]]+=1
-            else:
-                chara[s[i]]=1
-        for j in range(len(t)):
-            if t[j] in chara:
-                chara[t[j]]-=1
-            else:
-                return False
-        for k in chara:
-            if chara[k]!=0:
+        for i in range (len(s)):
+            ar1[ord(s[i])-ord('a')]+=1
+            ar1[ord(t[i])-ord('a')]-=1
+        for i in range(26):
+            if ar1[i]!=0:
                 return False
         return True
 
-        
         
