@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1512-number-of-good-pairs/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
