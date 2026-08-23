@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
