@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -137,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
