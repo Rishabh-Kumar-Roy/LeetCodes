@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0525-contiguous-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0525-contiguous-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0525-contiguous-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0525-contiguous-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
