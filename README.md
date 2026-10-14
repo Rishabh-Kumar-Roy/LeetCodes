@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0169-majority-element/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rishabh-Kumar-Roy/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
